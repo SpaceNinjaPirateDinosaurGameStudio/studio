@@ -1,6 +1,6 @@
 # 🎮 Manifesto
 
-## 🔥 **Why We Are Here**
+## 🔥 **Why we are here**
 
 We are **product designers, artists, and visionaries**, and we refuse to be trapped in the **monolith of repetition** that plagues game development. Our goal is to **craft polished, compelling experiences** using the skills we already excel at—**research, design, and storytelling**.
 
@@ -9,7 +9,7 @@ We are here to build **something meaningful**, not just another iteration of the
 We want to make **games that transcend audiences**—where the avid novel reader, the hardcore strategist, and the casual mobile player all find **something that speaks to them**.
 
 
-## 🚀 **What We Will Do**
+## 🚀 **What we will do**
 
 We will **start small but purposeful**—games that are **simple yet captivating**, standing out through **experience-driven design**.
 
@@ -24,7 +24,7 @@ We will design games **that break expectations**—games that can be **played in
 
 
 
-## 🤝 **Why You? Why Us?**
+## 🤝 **Why you? Why us?**
 
 Because I **like** this team. I like your **perspectives, opinions, and the way we work together**. And I believe we can do more:
 
@@ -34,21 +34,21 @@ Because I **like** this team. I like your **perspectives, opinions, and the way 
 
 
 
-## 🔄 **How We Work**
+## 🔄 **How we work**
 
 ### 🌎 A Structure That Reflects Our Values
 
 We are not a **hierarchy**, nor a **corporate machine**. We are a **network**, inspired by the **Valve organizational model**—where roles are **fluid and adapt** to the project's needs.
 
-🔧 **Craftsmanship Matters** – Each part of the process will be **refined and polished**, like the work of **a Japanese blacksmith with OCD**—obsessive precision, methodical execution.
+**Craftsmanship Matters** – Each part of the process will be **refined and polished**, like the work of **a Japanese blacksmith with OCD**—obsessive precision, methodical execution.
 
-🔍 **Quality Over Volume** – Not everyone here has been a gamer since birth. Some might not even identify as gamers at all. But that’s the point: **we need diverse perspectives to break the cycle**.
+**Quality Over Volume** – Not everyone here has been a gamer since birth. Some might not even identify as gamers at all. But that’s the point: **we need diverse perspectives to break the cycle**.
 
-🏆 **Find the Best in Every Field** – If a skill is missing, we **seek out the right partners** rather than forcing a poor fit. **Excellence over convenience.**
+**Find the Best in Every Field** – If a skill is missing, we **seek out the right partners** rather than forcing a poor fit. **Excellence over convenience.**
 
 
 
-## 🔧 **The Essential Roles for an MVP**
+## 🔧 **The essential roles for an mvp**
 
 We have distilled the absolute **core roles necessary** for a polished **Minimum Viable Product (MVP)**, based on real industry insights.
 
