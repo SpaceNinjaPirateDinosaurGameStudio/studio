@@ -1,4 +1,4 @@
-# 🎮 The Future of Games – A Manifesto
+# 🎮 Manifesto
 
 ## 🔥 **Why We Are Here**
 
